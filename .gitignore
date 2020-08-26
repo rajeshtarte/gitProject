@@ -1,0 +1,11 @@
+/test1.txt
+/test2.txt
+
+/index.html
+/style.css
+
+#Auto gen files
+auto-gen-files/a1.txt
+auto-gen-files/a2.txt
+auto-gen-files/a3.txt
+#auto-gen-files/*
